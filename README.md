@@ -1,3 +1,5 @@
-Loopstudios landing page
+# Loopstudios landing page
 
-![Design preview for Loopstudios landing page](./design/desktop-preview.jpg)
+![Design preview for full desktop landing page](./design/active-states.jpg)
+
+![Design preview for full mobile landing page](./design/mobile-design.jpg)
